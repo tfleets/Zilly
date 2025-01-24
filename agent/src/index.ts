@@ -28,6 +28,8 @@ import {
     ICacheManager,
     parseBooleanFromText,
 } from "@elizaos/core";
+
+import characterConfig from "../../characters/trump.character.json";
 import { RedisClient } from "@elizaos/adapter-redis";
 import { zgPlugin } from "@elizaos/plugin-0g";
 import { bootstrapPlugin } from "@elizaos/plugin-bootstrap";

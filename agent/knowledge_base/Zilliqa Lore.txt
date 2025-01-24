@@ -1,0 +1,118 @@
+﻿The Beginner’s Guide
+
+
+Zilliqa is a software that seeks to incentivize a global, distributed network of computers to run a blockchain platform that aims to increase user scalability through sharding. 
+
+
+In this way, Zilliqa is one of a number of competing blockchains aiming to grow an ecosystem of decentralized applications (dapps) and cryptocurrencies, such as Ethereum, Solana and Base.
+
+
+To differentiate itself from others, Zilliqa uses a sharding process which splits its infrastructure into several interconnected blockchains to support more transactions. 
+
+
+Zilliqa also launched Scilla, a native programming language that focuses on security and enables developers to write and launch customizable dapps intended to replicate real world services.
+
+
+To achieve all of these features, the network’s native cryptocurrency, ZIL, is used to execute programs, send transactions, and incentivize actors that support the network.
+
+
+Who Created Zilliqa?
+
+
+Zilliqa was launched in June 2017 by co-founders Amrit Kumar and Xinshu Don, two researchers from the National University of Singapore. The network’s mainnet went live in January 2019. 
+
+
+The project held an Initial Coin Offering (ICO) of the ZIL token in 2017, at the time raising over $22 million in ETH. 
+ 
+How Does Zilliqa Work?
+The Zilliqa network offers many features common to other cryptocurrency networks such as smart contracting, transaction settlement, and token issuance.
+
+
+Developers can use its proprietary language, Scilla, to run custom programming logic (smart contracts) and design new programs (decentralized applications) to offer a variety of products and services.
+
+
+While this system is complex in implementation, Zilliqa is ultimately designed to execute smart contracts and confirm network transactions in a scalable and efficient manner.
+
+
+Sharding
+
+
+Sharding is a structural technique that splits the network into several pieces, or shards, allowing nodes to only process a fraction of the network’s transactions.
+
+
+Each shard acts as its own blockchain and allows nodes assigned to them to store data, process transactions and add new blocks to their specific shard chain, called microblocks. 
+
+
+Microblocks are then combined into a transaction block by Directory Service Nodes (or DS nodes) to be added to the Zilliqa blockchain.
+
+
+Of note, the shard nodes contain a specific subset of the Zilliqa blockchain, and do not have to store Zilliqa’s entire history.
+
+
+Practical Byzantine Fault Tolerance (pBFT)
+
+
+Central to Zilliqa is the Practical Byzantine Fault Tolerance (pBFT) governance mechanism that keeps the distributed network of computers in sync.
+
+
+In order for nodes to power the blockchain and vote on changes, they must first stake ZIL, meaning that anyone who owns ZIL can help operate the network. Using pBFT, all nodes assigned to specific shards must agree before a microblock is finalized and combined into a transaction block. 
+
+
+Each node is subsequently rewarded with a portion of the block reward for validating the transactions.
+ 
+Why does ZIL have value?
+
+
+Zilliqa’s cryptocurrency, ZIL, plays a key role in maintaining and operating its network, and can be used for holding, sending and staking.
+
+
+By owning and staking ZIL, users gain the ability to vote on network upgrades, with each vote being proportional to the amount of ZIL coin they stake.
+
+
+Similar to many other cryptocurrencies, the supply of ZIL is limited, meaning that according to the software’s rules, there will only ever be 21 billion ZIL.
+
+
+Why use ZIL?
+
+
+Users may find Zilliqa appealing based on its attempt to create a scalable and secure platform for decentralized applications. 
+
+
+Further, developers may find the platform attractive for products and services that may garner a high volume of activity.
+
+
+Investors may seek to buy ZIL and add it to their portfolio should they believe the market will one day favor more scalable blockchains.
+
+
+Zilliqa Ecosystem
+
+
+Zilliqa has incubated a number of dApps in the entertainment sector…
+* WEB3WAR = A FPS game playable on PC, was listed in Microsoft app store and at peak had up to 70k players. Players compete in battles to earn $FPS tokens.
+* The Winners Circle = Joint Venture with Racing League. Horseracing prediction game and rewards ecosystem. Players compete to earn $HRSE tokens and can participate in Racing League Governance and purchase shares to real horses.
+* The Pride = NFT based Loyalty programme with esports team Mad Lions. 
+
+
+Zilliqa has a number of emerging memecoins who love to interact on twitter. The Memecoins are…
+* @Zoge_Coin
+* @ZilPepeMemeCoin
+* @TacocatOnZIL
+* @MEOWZILLIQA
+
+
+Most prominent NFT collection is The Soulless Citadel.
+
+
+Zilliqa and AI
+
+
+Zilliqa has recently integrated with AI16Z and GOAT which means that Zilliqa wallets can be used by AI agents. The most prominent AI agents currently are @TacocatOnZIL and @AvaStalion who is also an AI tipster for The Winners Circle project. 
+
+
+Z2
+
+
+Zilliqa 2.0 AKA Z2is not just a software upgrade, it's a new blockchain client written in Rust. Not only that, it implements a brand new L1 protocol (PoS consensus, P2P networking, EVM & Scilla contracts and more). Actually, even more than that. As our upcoming release will show, we're migrating the entire block history and state of the current Zilliqa mainnet to a new network that uses the new client to run the new protocol. 
+
+
+Z2 will be faster, cheaper and more scalable through the use of sharding technology.
