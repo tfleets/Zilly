@@ -1,6 +1,6 @@
 {
     "name": "zilly",
-    "clients": [Clients.TWITTER],
+    "clients": ["twitter"],
     "modelProvider": "openai",
     "settings": {
         "secrets": {},
